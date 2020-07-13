@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://HRInformchecherDev.croner.peninsula-uk.local'</initValue>
+      <name>hrurl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://jetdev.croner.peninsula-uk.local/WebFrmHome.aspx?ReturnUrl=%2f'</initValue>
+      <name>JETurl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://MyCronerDev.croner.peninsula-uk.local'</initValue>
+      <name>cronerurl</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
