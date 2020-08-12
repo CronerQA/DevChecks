@@ -15,6 +15,8 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser(GlobalVariable.hrurl)
 
+WebUI.delay(2)
+
 WebUI.setText(findTestObject('input_CIPD Membership No_membership-number'), '111111')
 
 WebUI.click(findTestObject('input_HR-inform email address_check'))
