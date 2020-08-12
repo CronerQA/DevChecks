@@ -15,7 +15,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser(GlobalVariable.cronerurl)
 
-WebUI.delay(2)
+WebUI.delay(10)
 
 WebUI.verifyElementPresent(findTestObject('MyCroner/div_BrightHr'), 0)
 
