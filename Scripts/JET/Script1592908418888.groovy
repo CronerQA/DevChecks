@@ -17,9 +17,9 @@ WebUI.openBrowser(GlobalVariable.JETurl)
 
 WebUI.click(findTestObject('JET/input_Click                 here to login_btnLogin2'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('JET/input_Login_txtUserName'), 'kevin')
+WebUI.setText(findTestObject('JET/input_Login_txtUserName'), 'PaulHughes')
 
-WebUI.setText(findTestObject('JET/input_Login_txtPassword'), 'Sheep')
+WebUI.setText(findTestObject('JET/input_Login_txtPassword'), 'JeepFoxRed12')
 
 WebUI.click(findTestObject('JET/input_Login_btnLogin2'), FailureHandling.STOP_ON_FAILURE)
 
