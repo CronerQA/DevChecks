@@ -19,7 +19,7 @@
    <testCaseLink>
       <guid>8e64dab5-ce8b-421b-920f-04d1240b7de2</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/My Croner</testCaseId>
    </testCaseLink>
    <testCaseLink>

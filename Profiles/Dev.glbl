@@ -6,17 +6,17 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://HRInformchecherDev.croner.peninsula-uk.local'</initValue>
+      <initValue>'https://hrinformchecker.croner.co.uk/'</initValue>
       <name>hrurl</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://jetdev.croner.peninsula-uk.local/WebFrmHome.aspx?ReturnUrl=%2f'</initValue>
+      <initValue>'https://jet.croner.co.uk/'</initValue>
       <name>JETurl</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://MyCronerDev.croner.peninsula-uk.local'</initValue>
+      <initValue>'https://my.croner.co.uk/'</initValue>
       <name>cronerurl</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
